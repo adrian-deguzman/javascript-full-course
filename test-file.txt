@@ -1,0 +1,2 @@
+This file is for practicing git in VS Code.
+Version 1
